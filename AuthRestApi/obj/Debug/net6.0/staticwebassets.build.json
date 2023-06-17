@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gYAgGR8OK9gKqbfAQR8CBTlk2XQFh4rPsqsYXmXAdkM=",
+  "Source": "AuthRestApi",
+  "BasePath": "_content/AuthRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

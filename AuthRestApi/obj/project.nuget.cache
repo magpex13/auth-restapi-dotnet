@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "biwvVqkaOmOzCw1uS4hNEG/nZUp5OW0oU3dPXDav2jJVr+niJ6rvVYFiewcGcGeS6lCuAkS3Q+OcxPMI9c7jcw==",
+  "success": true,
+  "projectFilePath": "/Users/magno/Documents/Dotnet/auth-restapi-dotnet/AuthRestApi/AuthRestApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/magno/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/magno/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/magno/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/magno/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/magno/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/magno/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
